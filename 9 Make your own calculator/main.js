@@ -34,12 +34,12 @@ document.write(number1 + " + " + number2 + " = " + sum + "<br/>"); // jog ko ra
 var sub = number1 - number2;
 document.write(number1 + " - " + number2 + " = " + sub + "<br/>"); // beyog ko ra
 
-var intu = number1 * number2;
-document.write(number1 + " * " + number2 + " = " + intu + "<br/>"); // gun ko ra
+var mul = number1 * number2;
+document.write(number1 + " * " + number2 + " = " + mul + "<br/>"); // gun ko ra
 
-var vag = number1 / number2;
-document.write(number1 + " / " + number2 + " = " + vag + "<br/>"); // vag ko ra
+var div = number1 / number2;
+document.write(number1 + " / " + number2 + " = " + div + "<br/>"); // vag ko ra
 
-var vag_fol = number1 % number2;
-document.write(number1 + " % " + number2 + " = " + vag_fol + "<br/>"); // vag_fol ko ra
+var rem = number1 % number2;
+document.write(number1 + " % " + number2 + " = " + rem + "<br/>"); // vag_fol ko ra
 */
