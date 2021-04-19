@@ -13,8 +13,13 @@ document.write("sub = " + result + "<br/ >"); // (*) create kor
 */
 
 
+
+
+
 // ইউজার জেতা টাইপ করবে সেটা string আকারে আসবে ।
 // এই জন্য string কে parseInt এ রুপান্তরিত করা । তাহলে string টি Number এ পরিনত হবে ।
+
+
 
 /*
 var number1 = prompt("Enter First Number : ");
