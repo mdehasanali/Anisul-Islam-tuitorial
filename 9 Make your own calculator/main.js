@@ -21,7 +21,7 @@ document.write("sub = " + result + "<br/ >"); // (*) create kor
 
 
 
-/*
+
 var number1 = prompt("Enter First Number : ");
 var number2 = prompt("Enter Second Number : ");
 
@@ -42,4 +42,3 @@ document.write(number1 + " / " + number2 + " = " + div + "<br/>"); // vag ko ra
 
 var rem = number1 % number2;
 document.write(number1 + " % " + number2 + " = " + rem + "<br/>"); // vag_fol ko ra
-*/
