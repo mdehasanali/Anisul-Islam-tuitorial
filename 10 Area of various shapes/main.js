@@ -31,4 +31,17 @@
 
 
 
-fahrenheit to Celsiu
+
+
+// fahrenheit to Celsius
+
+
+// var fahrenheit = prompt("Enter Fahrenheit");
+// var celsius = (fahrenheit - 32) * (5 / 9);
+// document.write(celsius);
+
+
+
+// var celsius = prompt("Enter Celsius");
+// var fahrenheit = (celsius * (9 / 5)) + 32;
+// document.write(fahrenheit);
