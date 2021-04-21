@@ -22,8 +22,13 @@
 
 
 
-var base = parseFloat(prompt("Enter Base"));
-var height = parseFloat(prompt("Enter Height"));
+// var base = parseFloat(prompt("Enter Base"));
+// var height = parseFloat(prompt("Enter Height"));
 
-var Triangle = (base * height) / 2;
-document.write("Triangle " + Triangle);
+// var Triangle = (base * height) / 2;
+// document.write("Triangle " + Triangle);
+
+
+
+
+fahrenheit to Celsiu
