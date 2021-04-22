@@ -66,7 +66,7 @@ if (marks > 100 || marks < 0) {
 
 
 
-
+/*
 // large Number
 var num1 = prompt("Enter First Number");
 var num2 = prompt("Enter Second Number");
@@ -78,4 +78,16 @@ if (num1 > num2 && num1 > num3) {
     document.write("Large Number " + num2);
 } else {
     document.write("Large Number " + num3);
+}
+*/
+
+
+
+// vowel and consonant
+var letters = prompt("Enter First Letter : ");
+var letters = letters.toUpperCase();
+if (letters == "A" || letters == "E" || letters == "I" || letters == "O" || letters == "U") {
+    document.write("Vowel");
+} else {
+    document.write("Consonant");
 }
