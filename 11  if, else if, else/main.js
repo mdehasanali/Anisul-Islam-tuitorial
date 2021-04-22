@@ -42,7 +42,7 @@ if (marks >= 80) {
 */
 
 
-
+/*
 // Letter grade Programs using logical operators
 var marks = prompt("Enter Your Marks Number : ");
 if (marks > 100 || marks < 0) {
@@ -61,4 +61,21 @@ if (marks > 100 || marks < 0) {
     document.write("D");
 } else {
     document.write("Fail")
+}
+*/
+
+
+
+
+// large Number
+var num1 = prompt("Enter First Number");
+var num2 = prompt("Enter Second Number");
+var num3 = prompt("Enter three Number");
+
+if (num1 > num2 && num1 > num3) {
+    document.write("Large Number " + num1);
+} else if (num2 > num3 && num2 > num1) {
+    document.write("Large Number " + num2);
+} else {
+    document.write("Large Number " + num3);
 }
