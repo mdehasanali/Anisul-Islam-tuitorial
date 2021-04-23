@@ -194,3 +194,21 @@ switch (letters) {
         document.write("Consonant");
 }
 */
+
+
+/*
+// vowel and consonant with switch, case break, default , একাধিক case ak sate using
+var letters = prompt("Enter a latter :- ");
+var letters = letters.toLowerCase();
+switch (letters) {
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        document.write("Vowel");
+        break;
+    default:
+        document.write("Consonant");
+}
+*/
