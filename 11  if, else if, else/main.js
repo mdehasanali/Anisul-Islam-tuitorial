@@ -82,7 +82,7 @@ if (num1 > num2 && num1 > num3) {
 */
 
 
-
+/*
 // vowel and consonant
 var letters = prompt("Enter First Letter : ");
 var letters = letters.toUpperCase();
@@ -90,4 +90,36 @@ if (letters == "A" || letters == "E" || letters == "I" || letters == "O" || lett
     document.write("Vowel");
 } else {
     document.write("Consonant");
+}
+*/
+
+
+
+
+
+// digit spelling
+// 0 - Zero , 1 - one ..... 9 -nine, ten - not a valid digit
+var digit = prompt("Enter One Digit Number :- ");
+if (digit == 0) {
+    document.write("Zero");
+} else if (digit == 1) {
+    document.write("One");
+} else if (digit == 2) {
+    document.write("Two");
+} else if (digit == 3) {
+    document.write("Three");
+} else if (digit == 4) {
+    document.write("Four");
+} else if (digit == 5) {
+    document.write("Five");
+} else if (digit == 6) {
+    document.write("Six");
+} else if (digit == 7) {
+    document.write("Seven");
+} else if (digit == 8) {
+    document.write("Eight");
+} else if (digit == 9) {
+    document.write("Nine");
+} else {
+    document.write("Not a valid digit");
 }
