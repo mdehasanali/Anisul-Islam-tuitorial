@@ -167,3 +167,30 @@ switch (digit) {
         document.write("Not a valid digit");
 }
 */
+
+
+
+/*
+// vowel and consonant with switch, case break, default using
+var letters = prompt("Enter a latter :- ");
+var letters = letters.toLowerCase();
+switch (letters) {
+    case "a":
+        document.write("Vowel");
+        break;
+    case "e":
+        document.write("Vowel");
+        break;
+    case "i":
+        document.write("Vowel");
+        break;
+    case "o":
+        document.write("Vowel");
+        break;
+    case "u":
+        document.write("Vowel");
+        break;
+    default:
+        document.write("Consonant");
+}
+*/
