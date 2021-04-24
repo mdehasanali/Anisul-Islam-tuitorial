@@ -34,3 +34,11 @@ for (var x = 0; x <= 100; x = x + 2) {
     document.write(" " + x);
 }
 */
+
+
+/*
+// 20 19 18 .... 3 2 1 
+for (var x = 20; x >= 1; x = x - 1) {
+    document.write(x + "<br/>");
+}
+*/
