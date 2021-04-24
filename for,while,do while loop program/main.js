@@ -42,3 +42,24 @@ for (var x = 20; x >= 1; x = x - 1) {
     document.write(x + "<br/>");
 }
 */
+
+
+/*
+var num1 = parseInt(prompt("Enter your first Number :- "));
+var num2 = parseInt(prompt("Enter your Secund Number :- "));
+for (var number = num1; number <= num2; number = number + 1) {
+    document.write("Result " + number + "<br/>");
+}
+*/
+
+
+
+/*
+// 1+2+3+4+5 = ...
+var sum = 0;
+
+for (var x = 1; x <= 10; x = x + 1) {
+    sum = sum + x;
+}
+document.write("Result :-" + sum);
+*/
