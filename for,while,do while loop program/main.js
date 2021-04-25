@@ -77,3 +77,16 @@ for (var x = num1; x <= num2; x = x + 1) {
 }
 document.write(sum);
 */
+
+
+
+
+/*
+// একাধিক প্রোগ্রাম একসাতে চালাতে পারি looping er মাধ্যমে
+for (let x = 0; x <= 5; x++) {
+    var num1 = parseInt(prompt("Enter Your First Number :- "));
+    var num2 = parseInt(prompt("Enter Your Second Number :- "));
+    var result = num1 + num2;
+    document.write("Result :- " + result + "<br/>");
+}
+*/
