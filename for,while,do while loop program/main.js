@@ -63,3 +63,17 @@ for (var x = 1; x <= 10; x = x + 1) {
 }
 document.write("Result :-" + sum);
 */
+
+
+
+/*
+// 1+2+3+4+5 = ...
+var num1 = parseInt(prompt("Enter Your First Number :- "));
+var num2 = parseInt(prompt("Enter Your Second Number :- "));
+var sum = 0;
+
+for (var x = num1; x <= num2; x = x + 1) {
+    sum = sum + x
+}
+document.write(sum);
+*/
