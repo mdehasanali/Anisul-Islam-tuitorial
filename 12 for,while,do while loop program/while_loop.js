@@ -11,3 +11,16 @@ while (x <= 50) {
     x++;
 }
 */
+
+
+
+/*
+var i = 1;
+var sum = 0;
+while (i <= 10) {
+    sum = sum + i;
+    i++;
+}
+document.write(sum);
+document.write("<h1>Ends</h1>")
+*/
