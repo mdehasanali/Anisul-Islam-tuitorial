@@ -12,6 +12,15 @@ var result = number * number;
 document.write("Result = " + result + "<br/>");
 */
 
+/*
+function number(num1, num2) {
+    var result = num1 * num2;
+    document.write("Result = " + result + "<br/>");
+}
+number(8, 9);
+number(4, 8);
+number(7, 8);
+*/
 
 
 
@@ -26,6 +35,7 @@ function sup() {
 }
 sup();
 */
+
 
 
 
