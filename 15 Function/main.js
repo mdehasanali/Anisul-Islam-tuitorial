@@ -24,6 +24,34 @@ number(7, 8);
 
 
 
+/*
+function number(num1, num2) {
+    var result = num1 * num2;
+    return result;
+}
+document.write(number());
+
+
+function sup() {
+    var num1 = parseInt(prompt("Enter Your First Number :- "));
+    var num2 = parseInt(prompt("Enter Your Second Number :- "));
+    var result = num1 + num2;
+    return result;
+}
+document.write(sup());
+
+
+
+function number() {
+    var number1 = 20;
+    var number2 = 10;
+    var result = number1 * number2;
+    return result;
+}
+document.write(number())
+*/
+
+
 
 /*
 // (+) function added
