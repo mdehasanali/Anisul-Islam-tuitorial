@@ -40,7 +40,7 @@ console.log(country[0]);
 
 
 
-
+/*
 // Array + Array concat kora
 var country1 = ["Bangladesh", "India", "Pakistan"];
 var country2 = ["Caina", "Nepal", "Japan"];
@@ -68,3 +68,4 @@ country.pop();
 country.pop();
 console.log(country);
 console.log(country.length);
+*/
