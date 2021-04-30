@@ -36,7 +36,7 @@ console.log(sum);
 
 
 
-
+/*
 var num = new Array;
 for (var i = 0; i < 5; i++) {
     num[i] = parseInt(prompt("Enter Your Number :- "))
@@ -47,3 +47,4 @@ for (let i = 0; i < num.length; i++) {
     sum = sum + num[i]
 }
 console.log("Sum " + sum);
+*/
