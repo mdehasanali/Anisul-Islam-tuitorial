@@ -1,3 +1,4 @@
+/*
 //adding a constructor
 
 function Student(name, age, cpga, Phone_number, Language) {
@@ -31,3 +32,31 @@ console.log(student3.age);
 console.log(student3.cpga);
 console.log(student3.Phone_number);
 console.log(student3.Language);
+*/
+
+
+
+// adding function inside a construct 
+function Student(name, age, cpga, Phone_number, Language) {
+    this.name = name;
+    this.age = age;
+    this.cpga = cpga;
+    this.Phone_number = Phone_number;
+    this.Language = Language;
+
+    this.display = function() {
+        console.log(this);
+        console.log(this.name);
+        console.log(this.age);
+        console.log(this.cpga);
+        console.log(this.Phone_number);
+        console.log(this.Language);
+    }
+}
+var student1 = new Student("Md. Ehasan Ali", 18, 4.61, 880175218520, ["Bangla,Hindi,English"]);
+var student2 = new Student("Md Sanaullah", 19, 3.50, 880170000000, ["Bangla,Farsi,Hindi"]);
+var student3 = new Student("Mst Sahida Khatun", 16, 3.70, 8801870157618, ["Bangla,Farsi,Chinis"]);
+
+student1.display();
+student2.display();
+student3.display();
