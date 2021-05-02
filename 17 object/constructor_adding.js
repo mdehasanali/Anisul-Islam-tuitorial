@@ -35,7 +35,7 @@ console.log(student3.Language);
 */
 
 
-
+/*
 // adding function inside a construct 
 function Student(name, age, cpga, Phone_number, Language) {
     this.name = name;
@@ -60,3 +60,4 @@ var student3 = new Student("Mst Sahida Khatun", 16, 3.70, 8801870157618, ["Bangl
 student1.display();
 student2.display();
 student3.display();
+*/
