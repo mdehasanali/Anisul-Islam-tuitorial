@@ -1,0 +1,6 @@
+.style {
+    font-size: 4rem;
+    color: red;
+    transition: all 1s;
+    font-style: italic;
+}
