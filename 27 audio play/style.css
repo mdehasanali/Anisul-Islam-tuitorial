@@ -1,6 +1,6 @@
 .btn {
     color: white;
-    background: red;
+    background: rgb(182, 181, 181);
     height: 40px;
     width: 100px;
     /* border: none; */
@@ -8,4 +8,10 @@
     border-radius: 10%;
     font-size: 1.2rem;
     cursor: pointer;
+    margin: 20px;
+}
+
+.animation {
+    box-shadow: 0 15px 18px 0 tomato;
+    opacity: 0.5;
 }
