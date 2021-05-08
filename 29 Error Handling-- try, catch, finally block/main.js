@@ -64,14 +64,14 @@ try {
 
 
 
-try {
-    // code test
-    alert("Hello Every one");
-    alert(x);
+// try {
+//     // code test
+//     alert("Hello Every one");
+//     alert(x);
 
-} catch (error) {
-    //handle error
-    console.log(error);
-} finally {
-    alert("Bye Every one");
-}
+// } catch (error) {
+//     //handle error
+//     console.log(error);
+// } finally {
+//     alert("Bye Every one");
+// }
