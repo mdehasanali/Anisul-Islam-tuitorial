@@ -5,7 +5,7 @@
 
 
 
-function meassage(message = `defolts`) {
+function meassage(message = `defults`) {
     console.log(`${message}`);
 };
 meassage()
