@@ -42,7 +42,7 @@ if (marks >= 80) {
 */
 
 
-
+/*
 // Letter grade Programs using logical operators
 var marks = prompt("Enter Your Marks Number : ");
 if (marks > 100 || marks < 0) {
@@ -62,7 +62,7 @@ if (marks > 100 || marks < 0) {
 } else {
     document.write("Fail")
 }
-
+*/
 
 
 
