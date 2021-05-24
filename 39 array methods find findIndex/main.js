@@ -24,6 +24,23 @@ const myFunction = (value, index, array) => {
 var firstNumbers = numbers.find(myFunction);
 console.log(firstNumbers);
 
+// let numbers = [11, 41, 20, 45, 48, ];
+// let firstNumbers = numbers.find(x => x % 2 === 0)
+// console.log(firstNumbers);
+
+
+// let numbers = [11, 41, 20, 45, 48, ];
+// let firstNumbers = numbers.find((x) => {
+//     if (x % 2 === 0) {
+//         return x
+//     }
+// })
+// console.log(firstNumbers);
+
+
+
+
+
 
 
 
@@ -95,3 +112,29 @@ console.log(first);
 
 var first = students.findIndex(x => x.gpa > 4)
 console.log(first);
+
+// findIndex (callback, value )return the index of the first element that pass certain candotion
+
+
+// let numbers = [11, 41, 20, 45, 48, ];
+// let firstNumbers = numbers.findIndex(x => x % 2 === 0)
+// console.log(firstNumbers);
+
+
+// let numbers = [11, 41, 20, 45, 48, ];
+// let firstNumbers = numbers.findIndex((x) => {
+//     if (x % 2 === 0) {
+//         return x
+//     }
+// })
+// console.log(firstNumbers);
+
+
+// let numbers = [11, 41, 20, 45, 48, ];
+// const myFunction = (value, index, array) => {
+//     if (value % 2 === 0) {
+//         return value;
+//     }
+// }
+// let firstNumbers = numbers.findIndex(myFunction);
+// console.log(firstNumbers);
