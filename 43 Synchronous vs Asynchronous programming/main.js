@@ -47,12 +47,18 @@ let d1 = () => {
 };
 
 let d2 = () => {
-    setTimeout(TimeOut, 2000)
+    setTimeout(() => {
+        console.log("Demo2 loading page 2 secend...")
+    }, 2000)
 };
 
-let TimeOut = () => {
-    console.log("Demo2 loading page 2 secend...");
-}
+// let d2 = () => {
+//     setTimeout(TimeOut, 2000)
+// };
+
+// let TimeOut = () => {
+//     console.log("Demo2 loading page 2 secend...");
+// }
 
 let d3 = () => {
     console.log("Demo3");
